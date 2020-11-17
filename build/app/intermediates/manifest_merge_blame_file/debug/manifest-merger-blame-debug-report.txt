@@ -1,0 +1,276 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.kosan_syoumei"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+15-->[:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
+16-->[:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+17-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:26:5-110
+17-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:26:22-107
+18    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+18-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:26:5-82
+18-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:26:22-79
+19    <!--
+20 io.flutter.app.FlutterApplication is an android.app.Application that
+21         calls FlutterMain.startInitialization(this); in its onCreate method.
+22         In most cases you can leave this as-is, but you if you want to provide
+23         additional functionality it is fine to subclass or reimplement
+24         FlutterApplication and put your custom class here.
+25    -->
+26    <application
+26-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:8:5-46:19
+27        android:name="io.flutter.app.FlutterApplication"
+27-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:9:9-57
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/32995bb3935206fd206cea8c6a640845/core-1.1.0/AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:11:9-43
+31        android:label="kosan_syoumei" >
+31-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:10:9-38
+32        <activity
+32-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:12:9-40:20
+33            android:name="com.example.kosan_syoumei.MainActivity"
+33-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:13:13-41
+34            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+34-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:16:13-163
+35            android:hardwareAccelerated="true"
+35-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:17:13-47
+36            android:launchMode="singleTop"
+36-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:14:13-43
+37            android:theme="@style/LaunchTheme"
+37-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:15:13-47
+38            android:windowSoftInputMode="adjustResize" >
+38-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:18:13-55
+39
+40            <!--
+41                 Specifies an Android theme to apply to this Activity as soon as
+42                 the Android process has started. This theme is visible to the user
+43                 while the Flutter UI initializes. After that, this theme continues
+44                 to determine the Window background behind the Flutter UI.
+45            -->
+46            <meta-data
+46-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:23:13-26:17
+47                android:name="io.flutter.embedding.android.NormalTheme"
+47-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:24:15-70
+48                android:resource="@style/NormalTheme" />
+48-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:25:15-52
+49            <!--
+50                 Displays an Android View that continues showing the launch screen
+51                 Drawable until Flutter paints its first frame, then this splash
+52                 screen fades out. A splash screen is useful to avoid any visual
+53                 gap between the end of Android's launch screen and the painting of
+54                 Flutter's first frame.
+55            -->
+56            <meta-data
+56-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:32:13-35:17
+57                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+57-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:33:15-79
+58                android:resource="@drawable/launch_background" />
+58-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:34:15-61
+59
+60            <intent-filter>
+60-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:36:13-39:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:37:17-68
+61-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:37:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:38:17-76
+63-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:38:27-74
+64            </intent-filter>
+65        </activity>
+66        <!--
+67             Don't delete the meta-data below.
+68             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+69        -->
+70        <meta-data
+70-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:43:9-45:33
+71            android:name="flutterEmbedding"
+71-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:44:13-44
+72            android:value="2" />
+72-->/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:45:13-30
+73
+74        <service
+74-->[:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+75            android:name="com.google.firebase.components.ComponentDiscoveryService"
+75-->[:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+76            android:exported="false" >
+76-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
+77            <meta-data
+77-->[:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+78                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
+78-->[:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+80            <meta-data
+80-->[:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+81                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+81-->[:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+84                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+84-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+86            <meta-data
+86-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:32:13-34:85
+87                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+87-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:33:17-96
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:34:17-82
+89        </service>
+90
+91        <receiver
+91-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:29:9-33:20
+92            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+92-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:30:13-85
+93            android:enabled="true"
+93-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:31:13-35
+94            android:exported="false" >
+94-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:32:13-37
+95        </receiver>
+96        <receiver
+96-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:34:9-42:20
+97            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+97-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:35:13-100
+98            android:enabled="true"
+98-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:36:13-35
+99            android:exported="true"
+99-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:37:13-36
+100            android:permission="android.permission.INSTALL_PACKAGES" >
+100-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:38:13-69
+101            <intent-filter>
+101-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:39:13-41:29
+102                <action android:name="com.android.vending.INSTALL_REFERRER" />
+102-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:40:17-79
+102-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:40:25-76
+103            </intent-filter>
+104        </receiver>
+105
+106        <service
+106-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:44:9-47:40
+107            android:name="com.google.android.gms.measurement.AppMeasurementService"
+107-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:45:13-84
+108            android:enabled="true"
+108-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:46:13-35
+109            android:exported="false" />
+109-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:47:13-37
+110        <service
+110-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:48:9-52:72
+111            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+111-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:49:13-87
+112            android:enabled="true"
+112-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:50:13-35
+113            android:exported="false"
+113-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:51:13-37
+114            android:permission="android.permission.BIND_JOB_SERVICE" />
+114-->[com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:52:13-69
+115
+116        <activity
+116-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+117            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+117-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+118            android:excludeFromRecents="true"
+118-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+119            android:exported="true"
+119-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+120            android:launchMode="singleTask"
+120-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+121            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+121-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+122            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+122-->[com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+123
+124        <receiver
+124-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:37:9-44:20
+125            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+125-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:38:13-78
+126            android:exported="true"
+126-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:39:13-36
+127            android:permission="com.google.android.c2dm.permission.SEND" >
+127-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:40:13-73
+128            <intent-filter>
+128-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:41:13-43:29
+129                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+129-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:17-81
+129-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:25-78
+130            </intent-filter>
+131        </receiver>
+132        <!--
+133             FirebaseInstanceIdService performs security checks at runtime,
+134             no need for explicit permissions despite exported="true"
+135        -->
+136        <service
+136-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:50:9-56:19
+137            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+137-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:51:13-77
+138            android:exported="true" >
+138-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:52:13-36
+139            <intent-filter android:priority="-500" >
+139-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:53:13-55:29
+139-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:53:28-51
+140                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+140-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:54:17-80
+140-->[com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:54:25-77
+141            </intent-filter>
+142        </service>
+143
+144        <provider
+144-->[com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+145            android:name="com.google.firebase.provider.FirebaseInitProvider"
+145-->[com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+146            android:authorities="com.example.kosan_syoumei.firebaseinitprovider"
+146-->[com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+147            android:exported="false"
+147-->[com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+148            android:initOrder="100" />
+148-->[com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+149
+150        <activity
+150-->[com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+151            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+151-->[com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+153            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+153-->[com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+154
+155        <meta-data
+155-->[com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+156            android:name="com.google.android.gms.version"
+156-->[com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+157            android:value="@integer/google_play_services_version" />
+157-->[com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+158
+159        <activity
+159-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:28:9-32:40
+160            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+160-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:29:13-79
+161            android:configChanges="orientation|screenSize"
+161-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:30:13-59
+162            android:excludeFromRecents="true"
+162-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:31:13-46
+163            android:exported="false" />
+163-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:32:13-37
+164    </application>
+165
+166</manifest>

@@ -1,0 +1,480 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_twitter_login] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/flutter_twitter_login/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/eb73f588441d709e7704cfe53042e58e/firebase-core-11.4.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/48c28a96b78def55e49cc4dc42dc7d7e/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e0681a9f70f07b38159e9d8f3c7c3b18/jetified-play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ff4e688b4b6f9dc87f8aa5a531e61501/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ccc53957a908389ce7a84b79afabea1e/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ad7c7340bf77ed9037777dc38b12cf5f/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/9f203872ca18fb711385727ee20a6354/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4024ce3f8a86e9e22fb3f1ad973aff29/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/6bc9442bee021f83936555595f95b7dd/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/31152cdea0c933875f4eb440ebf8e69d/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ebb080a8fe708c7c0033439c40c5e717/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e4d772ea0ed737341301f68be113b6ed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/51b086b1b791eed8656ba914c890f880/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/47b5a1665655a429cae174b1269e713d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/98a4350584676a6f0f58aef926c98933/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/bf8ebda2bece3aea1ad3805330337bf6/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/80592ed26f0b9ba4884a15a558e5cd33/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/c8251e355b7f629a0c502e139fee9f7f/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/5319131a6b01dd1457a7d496e0d6346a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/038b9ff0d8c0ceb2017ef2cd12ed4646/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/984000823dd7be305a9eadc28f0d58e7/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3196c46764a8b609b31cb85960638548/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/32995bb3935206fd206cea8c6a640845/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/25e32186181f7a2ba34ed0d6ec776040/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/fde392f0bcb605d6e26c2f2cb92b5d86/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/c4afb69fe904e0a84c017dd5a832f5d6/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/76af12d4ffbc96ac38b945e7e926455e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/2d763cb1f88d97ba4c06b8ba62123847/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/a01ae330b0fc79ee387eb77542ee5bb8/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/bc947c394a7f23d41212070450145c74/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/001ef66b08bffb45d7464349841a7db7/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/04ff8335b489f21ae8c90a845490c350/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4be73fe0445f1c68f41d078194be4bba/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/6de137bffcbd27d1e32e35b13ab90f43/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/46e04de9731906cca3a7d91d44721539/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:18:1-35:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ce948651087684e74b4d7007443d8b45/play-services-measurement-base-16.0.3/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:8:5-46:19
+MERGED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/eb73f588441d709e7704cfe53042e58e/firebase-core-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/eb73f588441d709e7704cfe53042e58e/firebase-core-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/48c28a96b78def55e49cc4dc42dc7d7e/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/48c28a96b78def55e49cc4dc42dc7d7e/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e0681a9f70f07b38159e9d8f3c7c3b18/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e0681a9f70f07b38159e9d8f3c7c3b18/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ff4e688b4b6f9dc87f8aa5a531e61501/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ff4e688b4b6f9dc87f8aa5a531e61501/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ad7c7340bf77ed9037777dc38b12cf5f/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ad7c7340bf77ed9037777dc38b12cf5f/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/9f203872ca18fb711385727ee20a6354/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/9f203872ca18fb711385727ee20a6354/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4024ce3f8a86e9e22fb3f1ad973aff29/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4024ce3f8a86e9e22fb3f1ad973aff29/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/32995bb3935206fd206cea8c6a640845/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/32995bb3935206fd206cea8c6a640845/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/a01ae330b0fc79ee387eb77542ee5bb8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/a01ae330b0fc79ee387eb77542ee5bb8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ce948651087684e74b4d7007443d8b45/play-services-measurement-base-16.0.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ce948651087684e74b4d7007443d8b45/play-services-measurement-base-16.0.3/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/32995bb3935206fd206cea8c6a640845/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:10:9-38
+	android:icon
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:9:9-57
+activity#com.example.kosan_syoumei.MainActivity
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:12:9-40:20
+	android:launchMode
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:24:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:34:15-61
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:33:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml:44:13-44
+uses-sdk
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_twitter_login] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/flutter_twitter_login/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_twitter_login] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/flutter_twitter_login/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/eb73f588441d709e7704cfe53042e58e/firebase-core-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/eb73f588441d709e7704cfe53042e58e/firebase-core-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/48c28a96b78def55e49cc4dc42dc7d7e/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/48c28a96b78def55e49cc4dc42dc7d7e/jetified-play-services-measurement-api-16.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e0681a9f70f07b38159e9d8f3c7c3b18/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e0681a9f70f07b38159e9d8f3c7c3b18/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ff4e688b4b6f9dc87f8aa5a531e61501/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ff4e688b4b6f9dc87f8aa5a531e61501/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ccc53957a908389ce7a84b79afabea1e/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ccc53957a908389ce7a84b79afabea1e/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ad7c7340bf77ed9037777dc38b12cf5f/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ad7c7340bf77ed9037777dc38b12cf5f/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/9f203872ca18fb711385727ee20a6354/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/9f203872ca18fb711385727ee20a6354/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4024ce3f8a86e9e22fb3f1ad973aff29/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4024ce3f8a86e9e22fb3f1ad973aff29/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/6bc9442bee021f83936555595f95b7dd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/6bc9442bee021f83936555595f95b7dd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/31152cdea0c933875f4eb440ebf8e69d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/31152cdea0c933875f4eb440ebf8e69d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ebb080a8fe708c7c0033439c40c5e717/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ebb080a8fe708c7c0033439c40c5e717/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e4d772ea0ed737341301f68be113b6ed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/e4d772ea0ed737341301f68be113b6ed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/51b086b1b791eed8656ba914c890f880/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/51b086b1b791eed8656ba914c890f880/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/47b5a1665655a429cae174b1269e713d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/47b5a1665655a429cae174b1269e713d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/98a4350584676a6f0f58aef926c98933/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/98a4350584676a6f0f58aef926c98933/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/bf8ebda2bece3aea1ad3805330337bf6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/bf8ebda2bece3aea1ad3805330337bf6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/80592ed26f0b9ba4884a15a558e5cd33/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/80592ed26f0b9ba4884a15a558e5cd33/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/c8251e355b7f629a0c502e139fee9f7f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/c8251e355b7f629a0c502e139fee9f7f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/5319131a6b01dd1457a7d496e0d6346a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/5319131a6b01dd1457a7d496e0d6346a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/038b9ff0d8c0ceb2017ef2cd12ed4646/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/038b9ff0d8c0ceb2017ef2cd12ed4646/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/984000823dd7be305a9eadc28f0d58e7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/984000823dd7be305a9eadc28f0d58e7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3196c46764a8b609b31cb85960638548/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3196c46764a8b609b31cb85960638548/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/32995bb3935206fd206cea8c6a640845/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/32995bb3935206fd206cea8c6a640845/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/25e32186181f7a2ba34ed0d6ec776040/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/25e32186181f7a2ba34ed0d6ec776040/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/fde392f0bcb605d6e26c2f2cb92b5d86/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/fde392f0bcb605d6e26c2f2cb92b5d86/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/c4afb69fe904e0a84c017dd5a832f5d6/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/c4afb69fe904e0a84c017dd5a832f5d6/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/76af12d4ffbc96ac38b945e7e926455e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/76af12d4ffbc96ac38b945e7e926455e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/2d763cb1f88d97ba4c06b8ba62123847/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/2d763cb1f88d97ba4c06b8ba62123847/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/a01ae330b0fc79ee387eb77542ee5bb8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/a01ae330b0fc79ee387eb77542ee5bb8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/bc947c394a7f23d41212070450145c74/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/bc947c394a7f23d41212070450145c74/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/001ef66b08bffb45d7464349841a7db7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/001ef66b08bffb45d7464349841a7db7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/04ff8335b489f21ae8c90a845490c350/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/04ff8335b489f21ae8c90a845490c350/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4be73fe0445f1c68f41d078194be4bba/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/4be73fe0445f1c68f41d078194be4bba/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/6de137bffcbd27d1e32e35b13ab90f43/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/6de137bffcbd27d1e32e35b13ab90f43/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/46e04de9731906cca3a7d91d44721539/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/46e04de9731906cca3a7d91d44721539/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:23:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ce948651087684e74b4d7007443d8b45/play-services-measurement-base-16.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ce948651087684e74b4d7007443d8b45/play-services-measurement-base-16.0.3/AndroidManifest.xml:5:5-44
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:firebase_analytics] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/0f50a01c6005473417caa927df5c34d4/jetified-firebase-analytics-impl-16.2.2/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/3bbde3a3acdbcf9b9985e8d926f994c1/jetified-firebase-analytics-16.0.4/AndroidManifest.xml:49:13-87
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/8198f2d6c78db292c15a48ea54cd5f4e/jetified-firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/cf125f6d1c6c32db6f52f2b579ccc92d/jetified-firebase-iid-17.0.3/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/13f4671911c8988912dd4d485ef3c78d/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23aa1db6697471b5a8078d2ba9ea3500/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/23f94f402e01df6900b3232c406e1bed/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/ouka.maeda/.gradle/caches/transforms-2/files-2.1/ca944f148c9abce0d560dfa664194ea0/twitter-core-3.1.1/AndroidManifest.xml:29:13-79

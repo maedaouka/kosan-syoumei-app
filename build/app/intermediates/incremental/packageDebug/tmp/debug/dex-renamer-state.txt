@@ -1,0 +1,4 @@
+#Tue Nov 17 15:58:56 JST 2020
+base.0=/Users/ouka.maeda/Documents/flutter-project/kosan-syoumei-app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
