@@ -52,21 +52,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1605597905613">
-      <screen x="1440" y="-294" width="1920" height="1080" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1605649241593">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605649241593" />
     <state width="1878" height="375" key="GridCell.Tab.0.bottom/1440.-294.1920.1080/0.23.1440.877/3360.-1369.1080.2537@1440.-294.1920.1080" timestamp="1605597905613" />
-    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1605597905611">
-      <screen x="1440" y="-294" width="1920" height="1080" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1605649241592">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605649241592" />
     <state width="1878" height="375" key="GridCell.Tab.0.center/1440.-294.1920.1080/0.23.1440.877/3360.-1369.1080.2537@1440.-294.1920.1080" timestamp="1605597905611" />
-    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1605597905611">
-      <screen x="1440" y="-294" width="1920" height="1080" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1605649241591">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605649241591" />
     <state width="1878" height="375" key="GridCell.Tab.0.left/1440.-294.1920.1080/0.23.1440.877/3360.-1369.1080.2537@1440.-294.1920.1080" timestamp="1605597905611" />
-    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1605597905612">
-      <screen x="1440" y="-294" width="1920" height="1080" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1605649241592">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605649241592" />
     <state width="1878" height="375" key="GridCell.Tab.0.right/1440.-294.1920.1080/0.23.1440.877/3360.-1369.1080.2537@1440.-294.1920.1080" timestamp="1605597905612" />
     <state x="1540" y="-194" width="1720" height="880" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1605596348251">
       <screen x="1440" y="-294" width="1920" height="1080" />
